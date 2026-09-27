@@ -8,7 +8,7 @@ I build accountable infrastructure for autonomous agents: metering, safety subst
 
 | Project | What it is |
 |---|---|
-| [**Interlock**](https://github.com/marcusrichards-dev/interlock) | Fault-tolerant safety substrate for AI agents — bulkheads, circuit breakers, leases (Python, MIT) |
+| [**Interlock**](https://github.com/marcusrichards-dev/interlock) | Leased authority, global e-stop, fault bus, and provenance-stamped claims for AI agent systems (Python, MIT) |
 | [**Reclamation Evidence Ledger**](https://github.com/marcusrichards-dev/reclamation-evidence-ledger) | Independent satellite watchdog for Alberta's orphan wells — free Sentinel-2 imagery, automated change detection |
 | [**AEGIS**](https://github.com/marcusrichards-dev/aegis) | Agent operating system: token governance, pack-once-reuse ledgers, honest-yield proof (Memory Utility Labs) |
 | [**intent-spec**](https://github.com/marcusrichards-dev/intent-spec) | Canonical intent → agent-machinery IR — compiles raw operator intent without becoming a second router; validator + worked examples (MIT) |
