@@ -9,11 +9,16 @@ I build accountable infrastructure for autonomous agents: metering, safety subst
 | Project | What it is |
 |---|---|
 | [**Interlock**](https://github.com/marcusrichards-dev/interlock) | Fault-tolerant safety substrate for AI agents — bulkheads, circuit breakers, leases (Python, MIT) |
-| [**AEGIS**](https://github.com/marcusrichards-dev/aegis) | Agent operating system: token governance, pack-once-reuse ledgers, honest-yield proof (Memory Utility Labs) |
 | [**Reclamation Evidence Ledger**](https://github.com/marcusrichards-dev/reclamation-evidence-ledger) | Independent satellite watchdog for Alberta's orphan wells — free Sentinel-2 imagery, automated change detection |
-| [**Star Lab**](https://github.com/marcusrichards-dev/star-lab) | Free local agent research lab — a fair head-to-head stage for coding agents |
-| [**Sovereign Contracts**](https://github.com/marcusrichards-dev/sovereign-contracts) | Local-first, auditable smart-contract pipeline — Hardhat + Python, no cloud accounts |
-| [**Hermes Controlled Execution**](https://github.com/marcusrichards-dev/hermes-refuse) | Governed macOS automation fabric — sandboxed, policy-gated execution |
+| [**AEGIS**](https://github.com/marcusrichards-dev/aegis) | Agent operating system: token governance, pack-once-reuse ledgers, honest-yield proof (Memory Utility Labs) |
+| [**intent-spec**](https://github.com/marcusrichards-dev/intent-spec) | Canonical intent → agent-machinery IR — compiles raw operator intent without becoming a second router; validator + worked examples (MIT) |
+| [**decision-algebra**](https://github.com/marcusrichards-dev/decision-algebra) | Indicator Value Theorem — cold re-derivation of a 588-sample instrument analysis, published with its corrections, not buried |
+
+## Also on this profile
+
+- [Star Lab](https://github.com/marcusrichards-dev/star-lab) — free local agent research lab, a fair head-to-head stage for coding agents
+- [Sovereign Contracts](https://github.com/marcusrichards-dev/sovereign-contracts) — local-first, auditable smart-contract pipeline; Hardhat + Python, no cloud accounts
+- [Hermes Controlled Execution](https://github.com/marcusrichards-dev/hermes-refuse) — governed macOS automation fabric; sandboxed, policy-gated execution
 
 ## Currently
 
