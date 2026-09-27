@@ -13,7 +13,7 @@ I build accountable infrastructure for autonomous agents: metering, safety subst
 | [**Reclamation Evidence Ledger**](https://github.com/marcusrichards-dev/reclamation-evidence-ledger) | Independent satellite watchdog for Alberta's orphan wells — free Sentinel-2 imagery, automated change detection |
 | [**Star Lab**](https://github.com/marcusrichards-dev/star-lab) | Free local agent research lab — a fair head-to-head stage for coding agents |
 | [**Sovereign Contracts**](https://github.com/marcusrichards-dev/sovereign-contracts) | Local-first, auditable smart-contract pipeline — Hardhat + Python, no cloud accounts |
-| [**Hermes Controlled Execution**](https://github.com/marcusrichards-dev/Hermes-Controlled-Execution) | Governed macOS automation fabric — sandboxed, policy-gated execution |
+| [**Hermes Controlled Execution**](https://github.com/marcusrichards-dev/hermes-refuse) | Governed macOS automation fabric — sandboxed, policy-gated execution |
 
 ## Currently
 
